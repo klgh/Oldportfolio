@@ -1,0 +1,475 @@
+<!-- Portfolio Modals -->
+    <!-- Use the modals below to showcase details about your portfolio projects! -->
+
+    <!-- Portfolio Modal 1 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Yoga Posies</h2>
+                            <p class="item-intro text-muted">twitter bootstrap</p>
+                            <img class="img-responsive" src="img/portfolio/yogaposies.png" alt="">
+                            <p>I manage and developed this website. I recently moved from WordPress to a raw HTML/CSS coded site with Twitter Bootstrap. I also manage SEO and social media.</p>
+                            <ul class="list-inline">
+                                <li>Date: July 2012 - Ongoing</li>
+                                <li>Client: YogaPosies</li>
+                                <li>Category: Web Design/Development and Managemet</li>
+                            </ul>
+                            <p><a href="http://yogaposies.com" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 2 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Role of the Observer</h2>
+                            <p class="item-intro text-muted">wordpress</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/roto.png" alt="">
+                            <p>I developed this website and help maintain updates and other major changes. I also help with SEO and social media.</p>
+                            <ul class="list-inline">
+                                <li>Date: September 2011 - As Needed</li>
+                                <li>Client: Role of the Observer</li>
+                                <li>Category: Web Design/Development and Managemet</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-wordpress"></i>
+                            </p>
+                            <p><a href="http://roleoftheobserver.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 3 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Touch of Health Atlanta Redesign</h2>
+                            <p class="item-intro text-muted">wordpress</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/toh.png" alt="">
+                            <p>Redesign of existing website, added an online store. Using WordPress to manage website and allow employees to edit information.</p>
+                            <ul class="list-inline">
+                                <li>Date: June 2014 - Ongoing</li>
+                                <li>Client: Touch of Health Atlanta</li>
+                                <li>Category: Web Design/Development and Managemet</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-wordpress"></i>
+                            </p>
+                            <p><a href="http://touchofhealthatlanta.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 4 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Laurens Floral Art</h2>
+                            <p class="item-intro text-muted">wordpress</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/lfa.png" alt="">
+                            <p>Redesign of existing website. Using WordPress to manage website.</p>
+                            <ul class="list-inline">
+                                <li>Date: July 2014 - Ongoing</li>
+                                <li>Client: Laurens Floral Art</li>
+                                <li>Category: Web Design/Development and Managemet</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-wordpress"></i>
+                            </p>
+                            <p><a href="http://laurensfloralart.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 5 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>BravePoint BI</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="img/portfolio/bravepoint.png" alt="">
+                            <p>While I worked at BravePoint, I redesigned this website using Twitter Bootstrap and Eloqua.</p>
+                            <ul class="list-inline">
+                                <li>Date: January 2013 - June 2013</li>
+                                <li>Client: BravePoint Inc.</li>
+                                <li>Category: Web Design/Development</li>
+                            </ul>
+                            <p><a href="http://www.bravepointbi.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 6 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Kevala Reiki</h2>
+                            <p class="item-intro text-muted">wordpress</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/kevala.png" alt="">
+                            <p>Redesign of existing website. Using WordPress to manage website.</p>
+                            <ul class="list-inline">
+                                <li>Date: July 2012 - Ongoing</li>
+                                <li>Client: Kevala Reiki</li>
+                                <li>Category: Web Design/Development and Managemet</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-wordpress"></i>
+                            </p>
+                            <p><a href="http://kevalareiki.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 7 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Personal Wedding Website</h2>
+                            <p class="item-intro text-muted">bootstrap</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/wedding.png" alt="">
+                            <p>This is my personal wedding website. It is my 1st venture into the world of wedding websites and I have been experimenting with different looks and feels.</p>
+                            <ul class="list-inline">
+                                <li>Date: September 2013 - Ongoing</li>
+                                <li>Client: Self</li>
+                                <li>Category: Web Design/Development and Managemet</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-html5"></i>
+                                <i class="fa fa-css3"></i>
+                            </p>
+                            <p><a href="http://klghshaun.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 8 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Atlanta Wedsite</h2>
+                            <p class="item-intro text-muted">wordpress</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/atlwedsite.png" alt="">
+                            <p>Creation of websites for couples in the Atlanta area.</p>
+                            <ul class="list-inline">
+                                <li>Date: November 2013 - Ongoing</li>
+                                <li>Client: Self</li>
+                                <li>Category: Web Design/Development and Managemet</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-wordpress"></i>
+                            </p>
+                            <p><a href="http://atlantawedsite.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 9 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Is it snowing in Atlanta?</h2>
+                            <p class="item-intro text-muted">bootstrap</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/atlsnow.png" alt="">
+                            <p>A silly website I quickly set up in honor of snowpocalypse 2014</p>
+                            <ul class="list-inline">
+                                <li>Date: January 2014</li>
+                                <li>Client: Self</li>
+                                <li>Category: Web Design/Development</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-html5"></i>
+                                <i class="fa fa-css3"></i>
+                            </p>
+                            <p><a href="http://isitsnowinginatlanta.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 10 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Rails Girls Atendees</h2>
+                            <p class="item-intro text-muted">ruby on rails</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/railsgirls.png" alt="">
+                            <p>I made this web application while attending Rails Girls Atlanta 2012. It was my first interaction with Ruby on Rails and Heroku.</p>
+                            <ul class="list-inline">
+                                <li>Date: December 2012</li>
+                                <li>Client: Self</li>
+                                <li>Category: Web Design/Development</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-html5"></i>
+                                <i class="fa fa-css3"></i>
+                            </p>
+                            <p><a href="http://kleach.herokuapp.com/attendees" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 11 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Bill &amp; Ashley's Wedding Website</h2>
+                            <p class="item-intro text-muted">bootstrap</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/ba.png" alt="">
+                            <p>I created this wedding website to get important information to guests, tell their story, and request songs at the reception.</p>
+                            <ul class="list-inline">
+                                <li>Date: March 2014-June 2014</li>
+                                <li>Client: Bill &amp; Ashley Scruggs</li>
+                                <li>Category: Web Design/Development</li>
+                            </ul>
+                            <p>
+                                <i class="fa fa-html5"></i>
+                                <i class="fa fa-css3"></i>
+                            </p>
+                            <p><a href="http://billashleywedding.com/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 12 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Go Team Atlanta!</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="img/portfolio/oxfamcp.png" alt="">
+                            <p>In July 2012 I had the pleasure of working with Oxfam America and Coldplay at their concert in Atlanta. I was the team leader/coordinator and wrote a guest post on their blog about my experience.</p>
+                            <p><a href="http://oxfamontour.org/coldplay/go-team-atlanta/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 13 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal13" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>St. Bede's Day School</h2>
+                            <p class="item-intro text-muted">joomla</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/stbede.png" alt="">
+                            <p>This was my 1st freelance website project. I created ths website using Joomla!</p>
+                            <ul class="list-inline">
+                                <li>Date: July 2011-July 2012</li>
+                                <li>Client: Christine Humphreys</li>
+                                <li>Category: Web Design/Development</li>
+                            </ul>
+                            <p><a href="http://stbedesdayschool.org/index.php/en/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 14 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal14" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Georgia Southern Wrestling Team</h2>
+                            <p class="item-intro text-muted">google sites</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/gsuwrestling.png" alt="">
+                            <p>I made this website for the Georgia Southern University Wrestling Team.</p>
+                            <ul class="list-inline">
+                                <li>Date: September 2011-May 2013</li>
+                                <li>Client: GSU Wrestling Team</li>
+                                <li>Category: Web Design/Development</li>
+                            </ul>
+                            <p><a href="https://sites.google.com/a/georgiasouthern.edu/gsuwrestling/" target="_blank">View Site</a></p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
